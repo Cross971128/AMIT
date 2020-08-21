@@ -1,0 +1,8 @@
+git clone "link"
+cd "folder name"
+git add . // to add all
+git add "file name"
+git config --global user.name "username"
+git config --global user.email "user_email"
+git commit -m "message"
+git push -u origin master
